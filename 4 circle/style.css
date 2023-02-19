@@ -21,7 +21,6 @@
     background-color: #fa5667;
     top: 0;
     left: 0;
-    z-index: 1;
 
     animation:item-1_move 1.8s cubic-bezier(.6,.01,.4,1) infinite ;
 }
@@ -30,6 +29,7 @@
     background-color: #7a45e5;
     top: 0;
     left: 0;
+    z-index: 1;
 
     animation:item-2_move 1.8s cubic-bezier(.6,.01,.4,1) infinite ;
 }
@@ -38,7 +38,6 @@
     background-color: #1b91f7;
     top: 0;
     left: 0;
-    z-index: -1;
 
     animation:item-3_move 1.8s cubic-bezier(.6,.01,.4,1) infinite ;
 }
